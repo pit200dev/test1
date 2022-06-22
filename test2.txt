@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m"file"
+push with repo command
